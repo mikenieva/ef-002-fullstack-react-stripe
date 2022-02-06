@@ -1,5 +1,7 @@
 # Fullstack React con Stripe Checkout
 
+Autor: Mike Nieva [@mikenieva](https://twitter.com/@mikenieva)
+
 ## 👋 Te damos la bienvenida
 
 Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la cual incluye una propuesta de comercio electrónico.
