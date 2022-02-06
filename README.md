@@ -6,7 +6,7 @@ Autor: Mike Nieva [@mikenieva](https://twitter.com/@mikenieva)
 
 Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la cual incluye una propuesta de comercio electrónico.
 
-**Demo**: [LINK](https://escuelafrontend-pizza-mikenieva.netlify.app)
+**Demo**: [LINK](https://ef-nieva-pizza.netlify.app)
 
 ![DEMO PIZZA APP](./docs/demo.gif)
 
