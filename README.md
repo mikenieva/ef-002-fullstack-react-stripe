@@ -13,13 +13,21 @@ Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la 
 
 ## 🚧 Consideraciones
 
-Sitúate en la carpeta raíz del proyecto y posteriormente instala las dependencias.
+Sitúate en la carpeta `completed-app` y posteriormente instala las dependencias respectivas. Para Frontend y Backend.
 
 ```
+$ cd ./completed-app/frontend
 $ npm install
 ```
 
-El conjunto de tecnologías que se están usando son:
+```
+$ cd ./completed-app/backend
+$ npm install
+```
+
+Considera las variables de entorno respectivas a integrar en el archivo `.env.example`.
+
+El conjunto de tecnologías que se están usando para este proyecto son:
 
 ```
 - FRONTEND
