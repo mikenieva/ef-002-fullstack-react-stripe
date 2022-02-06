@@ -2,13 +2,7 @@
 
 ## 👋 Te damos la bienvenida
 
-Es un gusto que nos acompañes en esta serie de comercio electrónico.
-
-A través de 10 artículos, construiremos una aplicación MERN (MongoDB, ExpressJS, React y Node.js).
-
-La gestión de estado ("state management") con React la realizaremos con `useContext` y `useReducer`.
-
-Puedes ver la aplicación final y el repositorio en los siguientes enlaces. Será una pizzería.
+Encuentra la aplicación final y el repositorio en los siguientes enlaces. Será una pizzería.
 
 **Demo**: [LINK](https://escuelafrontend-pizza-mikenieva.netlify.app)
 
@@ -17,21 +11,15 @@ Puedes ver la aplicación final y el repositorio en los siguientes enlaces. Ser�
 ![DEMO PIZZA APP](./docs/demo.gif)
 
 
-## 🎯 ¿Para quién está dirigido?
+## 🚧 Consideraciones
 
-Está dirigido a entusiastas en React que han desarrollado aplicaciones sencillas y ahora buscan construir con mayor nivel de dificultad.
+Sitúate en la carpeta raíz del proyecto y posteriormente instala las dependencias.
 
+```
+$ npm install
+```
 
-## 🚧 ¿Cuáles son los prerequisitos?
-
-Contar con:
-
-- Un nivel intermedio de JavaScript.
-- Conocimientos básicos en React.
-- Conocimientos intermedios en NodeJS.
-
-Con el objetivo claro, nuestro conjunto de tecnologías serán:
-
+El conjunto de tecnologías que se están usando son:
 
 ```
 - FRONTEND
