@@ -2,11 +2,9 @@
 
 ## 👋 Te damos la bienvenida
 
-Encuentra la aplicación final y el repositorio en los siguientes enlaces. Será una pizzería.
+Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la cual incluye una propuesta de comercio electrónico.
 
 **Demo**: [LINK](https://escuelafrontend-pizza-mikenieva.netlify.app)
-
-**Repositorio de aplicación terminada:** [LINK](https://github.com/mikenievacom)
 
 ![DEMO PIZZA APP](./docs/demo.gif)
 
