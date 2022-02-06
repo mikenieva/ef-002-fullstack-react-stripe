@@ -16,12 +16,12 @@ Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la 
 Sitúate en la carpeta `completed-app` y posteriormente instala las dependencias respectivas. Para Frontend y Backend.
 
 ```
-$ cd ./completed-app/frontend
+$ cd ./frontend
 $ npm install
 ```
 
 ```
-$ cd ./completed-app/backend
+$ cd ./backend
 $ npm install
 ```
 
