@@ -13,7 +13,7 @@ Encuentra la aplicación final en DEMO a constinuación. Será una pizzería la 
 
 ## 🚧 Consideraciones
 
-Sitúate en la carpeta `completed-app` y posteriormente instala las dependencias respectivas. Para Frontend y Backend.
+Instala las dependencias respectivas a Frontend y Backend.
 
 ```
 $ cd ./frontend
